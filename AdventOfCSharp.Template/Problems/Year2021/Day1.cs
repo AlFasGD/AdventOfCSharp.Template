@@ -1,5 +1,6 @@
-﻿// Too trivial case to include nullability
-// Consider removing this line on al solution
+﻿// This problem is too trivial a case to demand inclusion of nullability
+// Consider removing this line on more complex solutions
+// Additionally, you may add a #nullable enable line on the important sections of your code
 #nullable disable
 
 using AdventOfCSharp;
