@@ -16,6 +16,6 @@ internal sealed class MyCookies : Cookies
 {
     // Replace the strings below with your actual cookies, if you'd like
     // Dummy strings' lengths match (at least my) actual cookie content lengths
-    public override string GA => "GAX.X.XXXXXXXXXX.XXXXXXXXXX";
-    public override string Session => "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff";
+    public override string GA => "GA1.2.0123456789.0123456789";
+    public override string Session => "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff";
 }
